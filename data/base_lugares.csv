@@ -1,4 +1,37 @@
 ﻿nombre_lugar,tipo_experiencia,rating,direccion,Reviews
+Mercado De Artesanías La Ciudadela,Artesanías,4.5,"Balderas S/N, Colonia Centro, Centro, Cuauhtémoc, 06040 Cuauhtémoc, CDMX",17700
+Embarcadero Cuemanco la isla papu,Ecoturismo,4.3,"Periferico Sur, Adolfo Ruíz Cortínez, Xochimilco, 16034 Ciudad de México, CDMX, México",13186
+La Marquesa,Ecoturismo,4.5,"Parque La Marqueza, Parques Nacionales, 50100 Toluca de Lerdo, Méx.",7555
+Ex Convento Desierto de los Leones,Ecoturismo,4.6,"Carr Toluca - México s/n, Cuajimalpa de Morelos, 05020 La Venta, CDMX",15871
+Ajusco,Ecoturismo,4.4,"19.2302072,-99.1787687",170
+Rancho Mágico,Ecoturismo,4.5,"Camino Real, Oyameyo 50, San Miguel Topilejo, Tlalpan, 14500 Ciudad de México, CDMX",2237
+Parque Nacional Iztaccíhuatl - Popocatépetl,Ecoturismo,4.5,"Plaza de la Constitucion 10-B, Centro, 56900 Amecameca de Juárez, Méx.",24405
+Bosque de Chapultepec,Ecoturismo,4.6,"19.4063076,-99.2094552",179000
+Parque Bicentenario,Ecoturismo,4.7,"Av. 5 de Mayo 290, San Lorenzo Tlaltenango, Miguel Hidalgo, 11210 Ciudad de México, CDMX",34000
+Trajineras Xochimilco magico,Ecoturismo,4.1,"Camino a Nativitas 58, Xaltocan, Xochimilco, 16090 Ciudad de México, CDMX",531
+Globopuerto Teotihuacán,Ecoturismo,4.5,"Carretera Federal Mexico, Tulancingo - Ecatepec De Morelos Km 28.1, Constitucion de 1917, 55850 San Martín Centro, Méx.",398
+PISTA MOTOCROSS CHILUCA,Ecoturismo,4.6,"Eje Vial 3 Poniente 5""N, Juárez, Méx.",100
+Skydive México - Paracaidismo Tequesquitengo,Ecoturismo,4.8,"Emiliano Zapata 19, 62680 San José Vista Hermosa, Mor.",3980
+Bosque de San Juan de Aragón,Ecoturismo,4.3,"Calle José Loreto Fabela s/n, Gustavo A. Madero, San Juan de Aragón Sección II, 07969 Ciudad de México, CDMX",16300
+Parque Tezozómoc,Ecoturismo,4.4,"Manuel Salazar S/N, Hacienda del Rosario, Prados del Rosario, Azcapotzalco, 02410 Ciudad de México, CDMX",19000
+San Nicolás Totolapan Ejido Park,Ecoturismo,4.6,"Km 11.5, Carr. Picacho-Ajusco, Panoramica, 10900 Ciudad de México, CDMX",2967
+Las Estacas Parque Natural,Ecoturismo,4.7,"Carretera Tlaltizapan-Cuautla, Bonifacio García 6, 62770 Tlaltizapán, Mor.",8200
+Parque Nacional El Chico,Ecoturismo,4.8,"Carretera 105 Pachuca -Tampico con Desviacion a Mineral del Chico Km 7.5, Mineral del Chico, Hgo.",4600
+Xochitla,Ecoturismo,4.5,"Carretera Circunvalación s/n, El Trebol, 54600 Tepotzotlán, Méx.",10300
+Presa del Llano,Ecoturismo,4.6,"Carretera Villa del Carbón-Toluca, Las Vigas, Villa del Carbón, Méx.",2870
+Hacienda Panoaya,Ecoturismo,4.5,"Carr Federal México-Cuautla Km 58, Panoaya, 56900 Amecameca de Juárez, Méx.",19300
+Campamento La Isla Tzibanzá,Ecoturismo,4.4,"La Isla 115, 76547 Tzibantzá, Qro.",541
+PARQUE MASAYOSHI OHIRA,Ecoturismo,4.3,"Corredores Esq, Country Club Churubusco, Coyoacán, 04220 Ciudad de México, CDMX",12200
+Tlalpan National Park,Ecoturismo,4.6,"Camino a Sta. Teresa S / N, Parques del Pedregal, Tlalpan, 14010 Tlalpan, CDMX",14500
+Parque Lincoln,Ecoturismo,4.6,"Av. Emilio Castelar 163, Polanco, Polanco III Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX",13100
+Alameda de Santa María,Ecoturismo,4.6,"Santa María la Ribera, Cuauhtémoc, 06400 Mexico City",18500
+Mercado de San Juan,Mercado,4.5,"2ᵃ Calle de Ernesto Pugibet 21, Colonia Centro, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",10800
+Coyoacan Market,Mercado,4.4,"Ignacio Allende s/n, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX",28000
+Mercado Roma,Mercado,4.3,"Calle Querétaro 225, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",11290
+Mercado Medellín,Mercado,4.3,"Campeche 101, Roma Sur, Cuauhtémoc, 06760 Ciudad de México, CDMX",10900
+San Pedro de los Pinos Market,Mercado,4.3,"Calle Av. Dos S/N, San Pedro de los Pinos, Benito Juárez, 03800 Ciudad de México, CDMX",6700
+Escandon Market,Mercado,4.2,"Esquina con Agricultura, Av. José Martí, Escandón I Secc, 11800 Ciudad de México",4100
+Mercado de Sonora,Mercado,4.2,"Fray Servando Teresa de Mier 419, Merced Balbuena, Venustiano Carranza, 15800 Ciudad de México, CDMX",56100
 Pujol,Mexicana,4.6,Tennyson 133,3161
 Chapulín,Mexicana,4.6,Campos Eliseos 218,1004
 Restaurante Tierra Linda,Mexicana,4.6,Lago Maracaibo,848
@@ -22,7 +55,7 @@ La Imperial Samara Santa Fe,Mexicana,4.5,Av Sta Fe 94,700
 La Jefa,Mexicana,4.8,Calle Ajusco 52,51
 Los Amables,Mexicana,4.6,Ciudad Universitaria 307,387
 Toro Latin Kitchen,Mexicana,4.6,Av. Javier Barros Sierra 540,258
-Los Arcos Restaurant,Parrilla,4.6,Av. San Jeronimo 215,2353
+Los Arcos Restaurant,Mexicana,4.6,Av. San Jeronimo 215,2353
 Rincón de mi Tierra,Mexicana,4.6,Culiacan 66,156
 Jojula,Mexicana,4.6,Central Sur 618,1335
 La Perla Tapatía Azcapotzalco,Mexicana,4.6,"CCPM Azcapotzalco, Av Azcapotzalco 706",1323
@@ -36,19 +69,19 @@ Las Delicias de Jalisco,Mexicana,4.5,Av. Plan de San Luis 455,728
 "Restaurante ""Mi Morenita""",Mexicana,4.6,Cerca de Norte 67 #2906 esquina poniente 54,276
 Gorditas michoacanas cano,Mexicana,4.5,Avenida Ceylan 421,179
 "Las Klayudas, tlayudas y antojitos oaxaqueños",Mexicana,4.7,San Marcos No. 7,86
-Los Tacos De Pepe,Tacos,4.6,Miguel Lerdo de Tejada,73
-Barbacoa Renatos,Restaurante,4.7,Jacarandas 443,208
-Tacos Richard,Tacos,4.6,Calle Camino a Nextengo 102,128
-Los Jarochos de Nextengo,Fish & Chips,4.5,Calle Camino a Nextengo #188 Colonia,2374
+Los Tacos De Pepe,Mexicana,4.6,Miguel Lerdo de Tejada,73
+Barbacoa Renatos,Mexicana,4.7,Jacarandas 443,208
+Tacos Richard,Mexicana,4.6,Calle Camino a Nextengo 102,128
+Los Jarochos de Nextengo,Mexicana,4.5,Calle Camino a Nextengo #188 Colonia,2374
 El Olmo Azul,Mexicana,4.9,Cuauhtemoc 7,69
 Amatista Tostadas,Mexicana,4.7,Centenario 31A,654
-"A darle, que es taco vegano",Tacos,4.6,Heroes del 47 121,362
-Pepe Coyotes Mercado Coyoacán,Tacos,4.5,Av Miguel Hidalgo 297,4011
-El Gnomo,Hamburguesa,4.6,Av. Universidad 1894,2369
+"A darle, que es taco vegano",Mexicana,4.6,Heroes del 47 121,362
+Pepe Coyotes Mercado Coyoacán,Mexicana,4.5,Av Miguel Hidalgo 297,4011
+El Gnomo,Mexicana,4.6,Av. Universidad 1894,2369
 "Pozolería ""Linda""",Mexicana,4.3,Tabasco Pte 10,264
-Carnitas El Amigo Campos,Restaurante,4.4,Blvd. Nuevo Leon Puente 157,300
-EL ASADOR TAQUERÍA,Tacos,4.3,Av. México Nte. 5,309
-Pulques Artesanales Milpa Alta,Restaurante,4.5,"Orizaba 168, Barrio",51
+Carnitas El Amigo Campos,Mexicana,4.4,Blvd. Nuevo Leon Puente 157,300
+EL ASADOR TAQUERÍA,Mexicana,4.3,Av. México Nte. 5,309
+Pulques Artesanales Milpa Alta,Mexicana,4.5,"Orizaba 168, Barrio",51
 La Capital,Mexicana,4.5,"Av Nuevo León 137, Colonia Condesa, Cuauhtémoc, 06140 Ciudad de México, CDMX",1510
 La Tecla,Mexicana,4.5,"Calle de Durango 186-A, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",532
 Alba Cocina Local,Mexicana,4.6,"Calle Marsella 80, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",276
@@ -112,76 +145,47 @@ La tía Juanita,Mexicana,4.5,"09700, Prol Morelos 28, Santa Cruz Meyehualco, Izt
 Sylvestre Artz,Mexicana,4.6,"Periferico Sur #3720, Jardines del Pedregal, Álvaro Obregón, 03810 Ciudad de México, CDMX",251
 99,Mexicana,4.6,"Av. Álvaro Obregón 99, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",875
 Birria Estilo Jalisco - Food Stand,Mexicana,4.6,"Colima 171, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",79
-Mercado de San Juan,Mercado,4.5,"2ᵃ Calle de Ernesto Pugibet 21, Colonia Centro, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",10800
-Coyoacan Market,Mercado,4.4,"Ignacio Allende s/n, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX",28000
-Mercado Roma,Mercado,4.3,"Calle Querétaro 225, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",11290
-Mercado Medellín,Mercado,4.3,"Campeche 101, Roma Sur, Cuauhtémoc, 06760 Ciudad de México, CDMX",10900
-San Pedro de los Pinos Market,Mercado,4.3,"Calle Av. Dos S/N, San Pedro de los Pinos, Benito Juárez, 03800 Ciudad de México, CDMX",6700
-Escandon Market,Mercado,4.2,"Esquina con Agricultura, Av. José Martí, Escandón I Secc, 11800 Ciudad de México",4100
-Mercado de Sonora,Mercado,4.2,"Fray Servando Teresa de Mier 419, Merced Balbuena, Venustiano Carranza, 15800 Ciudad de México, CDMX",56100
-centro cultural el Foco,Teatro,4.4,"Tlacotalpan 16, Roma Sur, Cuauhtémoc, 06760 Ciudad de México, CDMX, México",547
-Centro Cultural Teatro 1,Teatro,4.2,"Guaymas 8, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, México",4463
-El77 Centro Cultural Autogestivo,Centro Cultural,4.6,"Abraham González 77, Juárez, Cuauhtémoc, 06600 Juárez, CDMX, México",474
-Foro 37 - Teatro Boutique,Teatro,4.5,"Londres 37, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, México",370
-Foro Shakespeare,Teatro,4.5,"Zamora 7, Colonia Condesa, Cuauhtémoc, 06140 Ciudad de México, CDMX, México",2254
-Un Teatro,Teatro,4.4,"Av Nuevo León 46, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, México",336
-"Juana Cata - Oficinas y Espacios para Cursos, Talleres y Eventos en CDMX",Centro de Negocios,4.3,"Plaza, Av. de la República 46, Tabacalera, Cuauhtémoc, 06030 Cuauhtémoc, CDMX, México",38
-ALDAMA THEATER,Compañia de teatro,4.3,"Calle Jose Rosas Moreno 71, San Rafael, Cuauhtémoc, 06470 Ciudad de México, CDMX, México",4484
-Teatro ''Benito Juárez'',Teatro,4.4,"Calz. Manuel Villalongín 15, Col. Renacimiento, Cuauhtémoc, 06500 Ciudad de México, CDMX, México",658
-Teatro de la Ciudad Esperanza Iris,Teatro,4.7,"Donceles 36, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Centro, CDMX, México",6743
-Teatro El Milagro,Teatro,4.5,"Calle Milan 24 Entre Lucerna, Calle Gral. Prim y, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, México",541
-"Teatro Milán, Foro Lucerna",Teatro,4.6,"Calle Lucerna 64 Juárez, Cuauhtémoc, 06600 Ciudad de México, México",3267
-TEATRO Sergio Magaña,Teatro,4.4,"Calle Sor Juana Ines de la Cruz 114, Sta María la Ribera, Cuauhtémoc, 06400 Cuauhtemoc, CDMX, México",1118
-Teatro Helénico,Teatro,4.6,"Av. Revolución 1500, Guadalupe Inn, Álvaro Obregón, 01020 Ciudad de México, CDMX, México",4818
-DANZITE COFFEE ART CLUB,Teatro,4.3,"Av. Miguel Ángel de Quevedo No. 928 Local 7 Col, Parque San Andrés, Coyoacán, 04040 Ciudad de México, CDMX, México",383
-Teatro El Forito de Coapa,Teatro,4.1,"04950, Calz. del Hueso 932, El Mirador, 04950 Ciudad de México, CDMX, México",489
-Embarcadero Cuemanco la isla papu,Atracción Turística,4.3,"Periferico Sur, Adolfo Ruíz Cortínez, Xochimilco, 16034 Ciudad de México, CDMX, México",13186
-Teatro de las Artes,Teatro,4.6,"Cto Interior Avenida Río Churubusco, Country Club Churubusco, Coyoacán, 04220 Ciudad de México, CDMX, México",108
-Teatro de los Insurgentes,Teatro,4.5,"Av de los Insurgentes Sur 1587, San José Insurgentes, Benito Juárez, 03900 Ciudad de México, CDMX, México",5677
-Teatro La Capilla,Teatro,4.5,"Calle Madrid 13, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, México",1283
-El Telón de Asfalto,Recinto para Eventos,4.3,"Cda. Perpetua No 4, San José Insurgentes, Benito Juárez, 03900 Ciudad de México, CDMX, México",439
-Teatro Ofelia,Teatro,4.3,"Av. Thiers 287, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, México",3042
 Museo Nacional de Antropología,Museo,4.8,"Av. Paseo de la Reforma s/n, Polanco, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX, México",53064
 Museo del Templo Mayor,Museo,4.8,"Seminario 8, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06060 Ciudad de México, CDMX, México",23736
-Museo Nacional De Arte (MUNAL),Museo de arte,4.8,"Calle de Tacuba 8, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",14651
+Museo Nacional De Arte (MUNAL),Museo,4.8,"Calle de Tacuba 8, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",14651
 Museo de la Ciudad de México,Museo,4.5,"José María Pino Suárez 30, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06060 Ciudad de México, CDMX, México",5580
 Museo Soumaya,Museo,4.7,"Blvd. Miguel de Cervantes Saavedra, Granada, Miguel Hidalgo, 11529 Ciudad de México, CDMX, México",34998
-Museo de Arte Popular,Museo de arte,4.7,"Revillagigedo 11, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, México",7013
-Palacio de Bellas Artes,Museo de arte,4.8,"Av. Juárez S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, México",101956
+Museo de Arte Popular,Museo,4.7,"Revillagigedo 11, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, México",7013
+Palacio de Bellas Artes,Museo,4.8,"Av. Juárez S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, México",101956
 Museo Franz Mayer,Museo,4.6,"Av. Hidalgo 45, Centro Histórico de la Cdad. de México, Guerrero, Cuauhtémoc, 06300 Ciudad de México, CDMX, México",12001
-"Museo Nacional de Historia, Castillo de Chapultepec",Museo de arte,4.6,"Primera Sección del Bosque de Chapultepec S/N, San Miguel Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, México",657
-Museo de Arte Moderno,Museo de arte moderno,4.6,"Av. Paseo de la Reforma s/n, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11100 Ciudad de México, CDMX, México",10919
+"Museo Nacional de Historia, Castillo de Chapultepec",Museo,4.6,"Primera Sección del Bosque de Chapultepec S/N, San Miguel Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, México",657
+Museo de Arte Moderno,Museo,4.6,"Av. Paseo de la Reforma s/n, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11100 Ciudad de México, CDMX, México",10919
 Museo Frida Kahlo,Museo,4.5,"Londres 247, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, México",26617
-Museo Dolores Olmedo,Museo de arte,4.7,"Av Mexico 5843, La Noria, Xochimilco, 16030 Ciudad de México, CDMX, México",8205
-Museo de la Caricatura,Museo de arte,4.2,"Donceles 99, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06020 Ciudad de México, CDMX, México",1637
+Museo Dolores Olmedo,Museo,4.7,"Av Mexico 5843, La Noria, Xochimilco, 16030 Ciudad de México, CDMX, México",8205
+Museo de la Caricatura,Museo,4.2,"Donceles 99, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06020 Ciudad de México, CDMX, México",1637
 Museo Diego Rivera-Anahuacalli,Museo,4.7,"Museo 150, San Pablo Tepetlapa, Coyoacán, 04620 Ciudad de México, CDMX, México",5120
 Museo Memoria y Tolerancia,Museo,4.7,"Av. Juárez 8, Colonia Centro, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, México",17940
-Museo de Historia Natural,Museo de historia natural,4.7,"Circuito Correr es Salud, Av. de los Compositores s/n, Bosque de Chapultepec II Secc, Miguel Hidalgo, 11800 CDMX, México",11956
+Museo de Historia Natural,Museo,4.7,"Circuito Correr es Salud, Av. de los Compositores s/n, Bosque de Chapultepec II Secc, Miguel Hidalgo, 11800 CDMX, México",11956
 Museo del Estanquillo,Museo,4.6,"Isabel La Católica 26, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Cuauhtemoc, CDMX, México",8530
-Museo Nacional de las Intervenciones,Museo bélico,4.6,"20 de Agosto s/n, San Diego Churubusco, Coyoacán, 04120 Ciudad de México, CDMX, México",7482
-Papalote Museo del Niño,Museo infantil,4.5,"Av Constituyentes 268, Bosque de Chapultepec II Secc, Miguel Hidalgo, 11840 Ciudad de México, CDMX, México",18614
+Museo Nacional de las Intervenciones,Museo,4.6,"20 de Agosto s/n, San Diego Churubusco, Coyoacán, 04120 Ciudad de México, CDMX, México",7482
+Papalote Museo del Niño,Museo,4.5,"Av Constituyentes 268, Bosque de Chapultepec II Secc, Miguel Hidalgo, 11840 Ciudad de México, CDMX, México",18614
 Antiguo Colegio de San Ildefonso,Museo,4.7,"Justo Sierra 16, Centro Histórico de la Cdad. de México, Centro, 06020 Ciudad de México, CDMX, México",11546
-Museo Universitario Arte Contemporáneo,Museo de arte,4.7,"Insurgentes 3000, C.U., Coyoacán, 04510 Ciudad de México, CDMX, México",11488
+Museo Universitario Arte Contemporáneo,Museo,4.7,"Insurgentes 3000, C.U., Coyoacán, 04510 Ciudad de México, CDMX, México",11488
 Museo del Instituto de Geología de la UNAM,Museo,4.6,"Jaime Torres Bodet 176, Sta María la Ribera, Cuauhtémoc, 06400 Ciudad de México, CDMX, México",5122
-Museo del Juguete Antiguo México,Museo del juguete,4.2,"Calle Dr Olvera 15, Doctores, Cuauhtémoc, 06720 Ciudad de México, CDMX, México",3289
-Museo de Cera,Museo de cera,4.6,"Londres 6, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, México",20792
-Museo de Arte Alvar y Carmen T. de Carrillo Gil,Museo de arte,4.5,"Av. Revolución 1608, San Ángel, Álvaro Obregón, 01000 Ciudad de México, CDMX, México",1577
-Museo de Arte Popular,Museo de arte,4.7,"Revillagigedo 11, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, México",7013
+Museo del Juguete Antiguo México,Museo,4.2,"Calle Dr Olvera 15, Doctores, Cuauhtémoc, 06720 Ciudad de México, CDMX, México",3289
+Museo de Cera,Museo,4.6,"Londres 6, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, México",20792
+Museo de Arte Alvar y Carmen T. de Carrillo Gil,Museo,4.5,"Av. Revolución 1608, San Ángel, Álvaro Obregón, 01000 Ciudad de México, CDMX, México",1577
+Museo de Arte Popular,Museo,4.7,"Revillagigedo 11, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, México",7013
 Museo Mural Diego Rivera,Museo,4.5,"Balderas S/N, Colonia Centro, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",3886
 Museo Nacional De San Carlos,Museo,4.6,"Av. Puente de Alvarado 50, Tabacalera, Cuauhtémoc, 06030 Ciudad de México, CDMX, México",3410
 MODO Museo del Objeto,Museo,4.5,"Colima 145, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, México",1663
 "Antiguo Palacio de Iturbide, Palacio de Cultura Citibanamex",Museo,4.7,"Av Francisco I. Madero 17, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",9138
-Museo Jumex,Museo de arte,4.6,"Blvd. Miguel de Cervantes Saavedra 303, Granada, Miguel Hidalgo, 11520 Ciudad de México, CDMX, México",10606
+Museo Jumex,Museo,4.6,"Blvd. Miguel de Cervantes Saavedra 303, Granada, Miguel Hidalgo, 11520 Ciudad de México, CDMX, México",10606
 Museo Nacional de Culturas Populares,Museo,4.5,"Av Miguel Hidalgo 289, Del Carmen, Coyoacán, 04000 Ciudad de México, CDMX, México",6491
 Museo Casa Estudio Diego Rivera y Frida Kahlo,Museo,4.5,"Diego Rivera s/n, San Ángel Inn, Álvaro Obregón, 01060 Ciudad de México, CDMX, México",3096
 Museo José Luis Cuevas,Museo,4.5,"La Academia 13, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06060 Ciudad de México, CDMX, México",1804
 Museo de la Mujer,Museo,4.4,"Calle República de Bolivia 17, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06020 Ciudad de México, CDMX, México",1101
-Ex Teresa Arte Actual,Museo de arte,4.5,"Lic. Verdad 8, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06060 Ciudad de México, CDMX, México",611
-"Museo Nacional de la Acuarela ""Alfredo Guati Rojo""",Museo de arte,4.6,"Calle Salvador Novo 88, Santa Catarina, Coyoacán, 04010 Ciudad de México, CDMX, México",288
+Ex Teresa Arte Actual,Museo,4.5,"Lic. Verdad 8, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06060 Ciudad de México, CDMX, México",611
+"Museo Nacional de la Acuarela ""Alfredo Guati Rojo""",Museo,4.6,"Calle Salvador Novo 88, Santa Catarina, Coyoacán, 04010 Ciudad de México, CDMX, México",288
 Museo Casa de León Trotsky,Museo,4.5,"Av. Río Churubusco 410, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, México",4758
 Museo Nacional de las Culturas,Museo,4.7,"Moneda 13, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",9855
-Museo del Tiempo,Museo de historia,4.7,"Plaza de la Constitución 7 a un costado del edificio de la Alcaldía, Tlalpan Centro I, Tlalpan, 14000 Ciudad de México, CDMX, México",561
-Museo Experimental el Eco,Museo de arte moderno,4.2,"Calle James Sullivan 43, San Rafael, Cuauhtémoc, 06470 Ciudad de México, CDMX, México",544
+Museo del Tiempo,Museo,4.7,"Plaza de la Constitución 7 a un costado del edificio de la Alcaldía, Tlalpan Centro I, Tlalpan, 14000 Ciudad de México, CDMX, México",561
+Museo Experimental el Eco,Museo,4.2,"Calle James Sullivan 43, San Rafael, Cuauhtémoc, 06470 Ciudad de México, CDMX, México",544
 Museo Indígena. Antigua Aduana de Peralvillo,Museo,4.5,"Av. Paseo de la Reforma 707, Peralvillo, Morelos, Cuauhtémoc, 06200 Ciudad de México, CDMX, México",904
 "MIDE, Museo Interactivo de Economía",Museo,4.6,"Calle de Tacuba 17, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",10463
 MUSEO TRICK EYE,Museo,4.5,"Av Ejército Nacional 843-B, Granada, Miguel Hidalgo, 11520 Ciudad de México, CDMX, México",2543
@@ -192,7 +196,7 @@ Museo de El Carmen,Museo,4.7,"y 6, Av. Revolución 4, San Ángel, Álvaro Obreg�
 Museo Archivo de la Fotografía,Museo,4.5,"República de Guatemala 34, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, México",780
 Museo Casa de Carranza,Museo,4.6,"Calle Río Lerma 35, Col. Renacimiento, Cuauhtémoc, 06500 Ciudad de México, CDMX, México",1023
 Museo de la luz,Museo,4.5,"San Ildefonso 43, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06020 Ciudad de México, CDMX, México",4295
-Museo Tamayo Arte Contemporáneo,Museo de arte,4.4,"Av. Paseo de la Reforma 51, Polanco, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX, México",7636
+Museo Tamayo Arte Contemporáneo,Museo,4.4,"Av. Paseo de la Reforma 51, Polanco, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX, México",7636
 Museo Nacional de la Estampa,Museo,4.5,"Av. Hidalgo 39, Centro Histórico de la Cdad. de México, Guerrero, Cuauhtémoc, 06050 Ciudad de México, CDMX, México",617
 UNAM Palacio de la Escuela de Medicina Museo de la Medicina,Museo,4.6,"República de Brasil 33, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, México",7321
 Museo del Chocolate,Museo,4.5,"Calle Milan 45, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, México",4394
@@ -201,10 +205,10 @@ Mumedi La embajada del diseño,Museo,4.5,"Av Francisco I. Madero 74, Centro Hist
 Museo Universitario del Chopo,Museo,4.5,"Calle Dr. Enrique Gonzalez Martinez 10, Sta María la Ribera, Cuauhtémoc, 06400 Ciudad de México, CDMX, México",3882
 Museo de la Charrería,Museo,4.3,"Isabel La Católica 108, Centro, Cuauhtémoc, 06080 Ciudad de México, CDMX, México",114
 Universum Museo de las Ciencias de la UNAM,Museo,4.6,"Universidad Nacional Autónoma de México, Ciudad Universitaria, Cto. Centro Cultural de, C.U., Coyoacán, 04510 Ciudad de México, CDMX, México",17542
-Museo Nacional de la Cartografía,Museo nacional,4.3,"Av Observatorio 94, Observatorio, Miguel Hidalgo, 11870 Ciudad de México, CDMX, México",617
+Museo Nacional de la Cartografía,Museo,4.3,"Av Observatorio 94, Observatorio, Miguel Hidalgo, 11870 Ciudad de México, CDMX, México",617
 Museo De Los Ferrocarrileros,Museo,4.2,"Entrada por CuauhtémocAlberto Herrera s/n, Aragón La Villa(Aragón), Gustavo A. Madero, 07000 Ciudad de México, México",1225
 Museo de Sitio y Centro de Visitantes del Bosque de Chapultepec,Museo,4.6,"Gran Avenida, Miguel Hidalgo, San Miguel Chapultepec I Secc, 11850 Ciudad de México, CDMX, México",479
-INBA Museo Nacional de Arquitectura,Museo nacional,4.8,"Av. Juárez 1, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06050 Cuahtemoc, CDMX, México",450
+INBA Museo Nacional de Arquitectura,Museo,4.8,"Av. Juárez 1, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06050 Cuahtemoc, CDMX, México",450
 Museo del Telégrafo,Museo,4.6,"Calle de Tacuba 8, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, México",407
 Museo Casa de la Bola,Museo,4.6,"Av. Parque Lira 136, Tacubaya, Miguel Hidalgo, 11870 Ciudad de México, CDMX, México",1132
 Museo Casa de la Memoria Indómita,Museo,4.5,"Calle Regina 66, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",1008
@@ -212,45 +216,25 @@ Museo de la Tortura,Museo,4.2,"Calle de Tacuba 15, Centro Histórico de la Cdad.
 Museo de la Ciudad de México (Torre Latino),Museo,4.7,"Eje Central Lázaro Cárdenas 2, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",97
 Museo del Metro de la Ciudad de México,Museo,4.4,"03920, Av. Extremadura 185, Insurgentes Mixcoac, Benito Juárez, 03920 Ciudad de México, CDMX, México",3251
 Museo Postal,Museo,4.8,"2, Calle de Tacuba 1, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",190
-Galería de Historia Museo del Caracol,Museo de historia,4.6,"San Miguel Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX, México",2551
+Galería de Historia Museo del Caracol,Museo,4.6,"San Miguel Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX, México",2551
 Museo Casa Del Risco,Museo,4.7,"Plaza San Jacinto 5, San Ángel TNT, San Ángel, Álvaro Obregón, 01000 Ciudad de México, CDMX, México",791
 Museo de Historia de Tlalpan,Museo,4.1,"Plaza de la Constitución No. 10, Tlalpan Centro I, Tlalpan, 14000 Ciudad de México, CDMX, México",155
-Museo de la Cancillería,Museo de arte,4.5,"06000, República de El Salvador 47, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",418
+Museo de la Cancillería,Museo,4.5,"06000, República de El Salvador 47, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",418
 Museo Nacional de la Revolución,Museo,4.6,"Plaza, Av. de la República S/N, Tabacalera, Cuauhtémoc, 06030 Cuauhtemoc, CDMX, México",3498
 Casa Luis Barragán,Museo,4.5,"Gral. Francisco Ramírez 12-14, Ampliación Daniel Garza, Amp Daniel Garza, Miguel Hidalgo, 11840 Ciudad de México, CDMX, México",1036
 UNAM Museo de las Constituciones,Museo,4.5,"Calle del Carmen 31, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, México",2383
-Museo Muca Roma,Museo de arte,4.2,"Tonalá 51, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, México",286
+Museo Muca Roma,Museo,4.2,"Tonalá 51, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, México",286
 Museo del Ejército y Fuerza Aérea Mexicanos “Bethlemitas”,Museo,4.5,"Calle de Filomeno Mata 6, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06040 Ciudad de México, CDMX, México",550
 "MUEFA, Museo del Ejército y de la Fuerza Aérea",Museo,4.5,"Calz. de Tlalpan 1836, Country Club Churubusco, Coyoacán, 04220 Ciudad de México, CDMX, México",653
-Museo de Sitio de Cuicuilco,Museo arqueológico,4.6,"Insurgentes esquina Periférico Sur, Isidro Fabela, 14030 Ciudad de México, CDMX, México",343
+Museo de Sitio de Cuicuilco,Museo,4.6,"Insurgentes esquina Periférico Sur, Isidro Fabela, 14030 Ciudad de México, CDMX, México",343
 Museo Soumaya Plaza Loreto,Museo,4.6,"Rio de la Magdalena Y, Tizapán San Ángel, San Ángel, Álvaro Obregón, 01090 Ciudad de México, CDMX, México",1619
-"Museo de Geofísica, UNAM",Museo de ciencias,4.6,"Victoriano Zepeda 53, Observatorio, Miguel Hidalgo, 11860 Ciudad de México, CDMX, México",200
+"Museo de Geofísica, UNAM",Museo,4.6,"Victoriano Zepeda 53, Observatorio, Miguel Hidalgo, 11860 Ciudad de México, CDMX, México",200
 MUCA CU - Museo Universitario de Ciencias y Arte,Museo,4.3,"Circuito Interior Universitario, Circuto Escolar s/n, C.U., Coyoacán, 04510 Ciudad de México, CDMX, México",802
 Museo Soumaya,Museo,4.8,"Blvd. Miguel de Cervantes Saavedra S/N, Amp Granada, Miguel Hidalgo, 11529 Ciudad de México, CDMX, México",1313
 Palacio de la Autonomía de la UNAM,Museo,4.4,"Lic. Primo de Verdad 2, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06060 Ciudad de México, CDMX, México",283
 Museo del Tequila y el Mezcal,Museo,4.2,"Plaza Garibaldi s/n, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, México",999
 Museo De San Ildefonso,Museo,4.5,"Donceles, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, México",204
 Museo del Cárcamo de Dolores,Museo,4.6,"Av Rodolfo Neri Vela S/N, Bosque de Chapultepec II Secc, Miguel Hidalgo, 11850 Ciudad de México, CDMX, México",1448
-La Marquesa,Ecoturismo,4.5,"Parque La Marqueza, Parques Nacionales, 50100 Toluca de Lerdo, Méx.",7555
-Ex Convento Desierto de los Leones,Ecoturismo,4.6,"Carr Toluca - México s/n, Cuajimalpa de Morelos, 05020 La Venta, CDMX",15871
-Ajusco,Ecoturismo,4.4,"19.2302072,-99.1787687",170
-Rancho Mágico,Ecoturismo,4.5,"Camino Real, Oyameyo 50, San Miguel Topilejo, Tlalpan, 14500 Ciudad de México, CDMX",2237
-Parque Nacional Iztaccíhuatl - Popocatépetl,Ecoturismo,4.5,"Plaza de la Constitucion 10-B, Centro, 56900 Amecameca de Juárez, Méx.",24405
-Bosque de Chapultepec,Ecoturismo,4.6,"19.4063076,-99.2094552",179000
-Parque Bicentenario,Ecoturismo,4.7,"Av. 5 de Mayo 290, San Lorenzo Tlaltenango, Miguel Hidalgo, 11210 Ciudad de México, CDMX",34000
-Trajineras Xochimilco magico,Ecoturismo,4.1,"Camino a Nativitas 58, Xaltocan, Xochimilco, 16090 Ciudad de México, CDMX",531
-Globopuerto Teotihuacán,Ecoturismo,4.5,"Carretera Federal Mexico, Tulancingo - Ecatepec De Morelos Km 28.1, Constitucion de 1917, 55850 San Martín Centro, Méx.",398
-PISTA MOTOCROSS CHILUCA,Ecoturismo,4.6,"Eje Vial 3 Poniente 5""N, Juárez, Méx.",100
-Skydive México - Paracaidismo Tequesquitengo,Ecoturismo,4.8,"Emiliano Zapata 19, 62680 San José Vista Hermosa, Mor.",3980
-Bosque de San Juan de Aragón,Ecoturismo,4.3,"Calle José Loreto Fabela s/n, Gustavo A. Madero, San Juan de Aragón Sección II, 07969 Ciudad de México, CDMX",16300
-Parque Tezozómoc,Ecoturismo,4.4,"Manuel Salazar S/N, Hacienda del Rosario, Prados del Rosario, Azcapotzalco, 02410 Ciudad de México, CDMX",19000
-San Nicolás Totolapan Ejido Park,Ecoturismo,4.6,"Km 11.5, Carr. Picacho-Ajusco, Panoramica, 10900 Ciudad de México, CDMX",2967
-Las Estacas Parque Natural,Ecoturismo,4.7,"Carretera Tlaltizapan-Cuautla, Bonifacio García 6, 62770 Tlaltizapán, Mor.",8200
-Parque Nacional El Chico,Ecoturismo,4.8,"Carretera 105 Pachuca -Tampico con Desviacion a Mineral del Chico Km 7.5, Mineral del Chico, Hgo.",4600
-Xochitla,Ecoturismo,4.5,"Carretera Circunvalación s/n, El Trebol, 54600 Tepotzotlán, Méx.",10300
-Presa del Llano,Ecoturismo,4.6,"Carretera Villa del Carbón-Toluca, Las Vigas, Villa del Carbón, Méx.",2870
-Hacienda Panoaya,Ecoturismo,4.5,"Carr Federal México-Cuautla Km 58, Panoaya, 56900 Amecameca de Juárez, Méx.",19300
-Campamento La Isla Tzibanzá,Ecoturismo,4.4,"La Isla 115, 76547 Tzibantzá, Qro.",541
 Pre-Hispanic City of Teotihuacan,Pirámides,4.8,"Ecatepec Pirámides km.22 + 600, San Juan Teotihuacan de Arista, Méx.",67000
 Pyramid Santa Cecilia Acatitlan,Pirámides,4.7,"Av. Acatitlán S/N, Sta Cecilia Acatitlan, 54130 Tlalnepantla de Baz, Méx.",144
 PYRAMID Tlatelolco,Pirámides,4.6,"Eje Central Lázaro Cárdenas 362, Tlatelolco, Cuauhtémoc, 06900 Ciudad de México, CDMX",63
@@ -259,11 +243,32 @@ Cuicuilco Pyramid,Pirámides,4.6,"04530, Anillo Perif. Blvd. Adolfo López Mateo
 Tenayuca Pyramid,Pirámides,4.3,"Quetzalcoatl S/N, San Bartolo Tenayuca, 54150 Tlalnepantla de Baz, Méx.",4400
 Zona Arqueológica de Cholula,Pirámides,4.7,"Calle 14 Pte. S/N, San Miguel, Zona Arqueológica San Andrés Cholula, 72760 San Andrés Cholula, Pue.",21400
 Archaeological Zone Tepozteco,Pirámides,4.7,"Carretera Federal libre, Cuernavaca - Tepoztlan, 62520 Tepoztlán, Mor.",12800
+El Pialadero de Guadalajara,Mexicana,4.3,"Hamburgo 332, Juárez, Cuauhtémoc, 06600 Cuauhtemoc, CDMX",3100
+centro cultural el Foco,Teatro,4.4,"Tlacotalpan 16, Roma Sur, Cuauhtémoc, 06760 Ciudad de México, CDMX, México",547
+Centro Cultural Teatro 1,Teatro,4.2,"Guaymas 8, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, México",4463
+El77 Centro Cultural Autogestivo,Teatro,4.6,"Abraham González 77, Juárez, Cuauhtémoc, 06600 Juárez, CDMX, México",474
+Foro 37 - Teatro Boutique,Teatro,4.5,"Londres 37, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, México",370
+Foro Shakespeare,Teatro,4.5,"Zamora 7, Colonia Condesa, Cuauhtémoc, 06140 Ciudad de México, CDMX, México",2254
+Un Teatro,Teatro,4.4,"Av Nuevo León 46, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, México",336
+"Juana Cata - Oficinas y Espacios para Cursos, Talleres y Eventos en CDMX",Teatro,4.3,"Plaza, Av. de la República 46, Tabacalera, Cuauhtémoc, 06030 Cuauhtémoc, CDMX, México",38
+ALDAMA THEATER,Teatro,4.3,"Calle Jose Rosas Moreno 71, San Rafael, Cuauhtémoc, 06470 Ciudad de México, CDMX, México",4484
+Teatro ''Benito Juárez'',Teatro,4.4,"Calz. Manuel Villalongín 15, Col. Renacimiento, Cuauhtémoc, 06500 Ciudad de México, CDMX, México",658
+Teatro de la Ciudad Esperanza Iris,Teatro,4.7,"Donceles 36, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Centro, CDMX, México",6743
+Teatro El Milagro,Teatro,4.5,"Calle Milan 24 Entre Lucerna, Calle Gral. Prim y, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, México",541
+"Teatro Milán, Foro Lucerna",Teatro,4.6,"Calle Lucerna 64 Juárez, Cuauhtémoc, 06600 Ciudad de México, México",3267
+TEATRO Sergio Magaña,Teatro,4.4,"Calle Sor Juana Ines de la Cruz 114, Sta María la Ribera, Cuauhtémoc, 06400 Cuauhtemoc, CDMX, México",1118
+Teatro Helénico,Teatro,4.6,"Av. Revolución 1500, Guadalupe Inn, Álvaro Obregón, 01020 Ciudad de México, CDMX, México",4818
+DANZITE COFFEE ART CLUB,Teatro,4.3,"Av. Miguel Ángel de Quevedo No. 928 Local 7 Col, Parque San Andrés, Coyoacán, 04040 Ciudad de México, CDMX, México",383
+Teatro El Forito de Coapa,Teatro,4.1,"04950, Calz. del Hueso 932, El Mirador, 04950 Ciudad de México, CDMX, México",489
+Teatro de las Artes,Teatro,4.6,"Cto Interior Avenida Río Churubusco, Country Club Churubusco, Coyoacán, 04220 Ciudad de México, CDMX, México",108
+Teatro de los Insurgentes,Teatro,4.5,"Av de los Insurgentes Sur 1587, San José Insurgentes, Benito Juárez, 03900 Ciudad de México, CDMX, México",5677
+Teatro La Capilla,Teatro,4.5,"Calle Madrid 13, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, México",1283
+El Telón de Asfalto,Teatro,4.3,"Cda. Perpetua No 4, San José Insurgentes, Benito Juárez, 03900 Ciudad de México, CDMX, México",439
+Teatro Ofelia,Teatro,4.3,"Av. Thiers 287, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX, México",3042
 Templo de la CIudad de México,Templo,4.8,"Av. 510 90, San Juan de Aragón, Gustavo A. Madero, 07950 Ciudad de México, CDMX",2843
 Templo Expiatorio Nacional de San Felipe de Jesús,Templo,4.7,"Av Francisco I. Madero 11, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",407
 Mexico City Metropolitan Cathedral,Templo,4.7,"Plaza de la Constitución S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",15700
 Maronite Cathedral of Mexico and Shrine of St. Charbel,Templo,4.7,"República de Uruguay 132, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06060 Ciudad de México, CDMX",785
-Mercado De Artesanías La Ciudadela,Artesanías,4.5,"Balderas S/N, Colonia Centro, Centro, Cuauhtémoc, 06040 Cuauhtémoc, CDMX",17700
 Santuario de Sta. María Auxiliadora,Templo,4.7,"Colegio Salesiano #61, Anáhuac I Secc, Miguel Hidalgo, 11320 Ciudad de México, CDMX",708
 Parroquia San Juan Bautista,Templo,4.7,"Centenario 8, Coyoacán, 04000 Ciudad de México, CDMX",3700
 Basilica of Our Lady of Guadalupe,Templo,4.7,"Fray Juan de Zumárraga No. 2, Villa Gustavo A. Madero, Gustavo A. Madero, 07050 Ciudad de México, CDMX",98800
@@ -272,8 +277,3 @@ Catedral de Puebla,Templo,4.8,"C. 16 de Septiembre s/n, Centro, 72000 Puebla, Pu
 Shrine of Our Lady of Remedies,Templo,4.7,"Ferrocarril, San Miguel, Zona Arqueológica San Andrés Cholula, 72760 San Andrés Cholula, Pue.",1040
 Cathedral Jesus Lord of Mercy,Templo,4.5,"Av. Dr. Gustavo Baz 174, Benito Juárez, 57000 Nezahualcóyotl, Méx.",1600
 Toluca Cathedral,Templo,4.7,"Av. Independencia 5 Ote. 303, Centro, 50000 Toluca de Lerdo, Méx.",6300
-PARQUE MASAYOSHI OHIRA,Ecoturismo,4.3,"Corredores Esq, Country Club Churubusco, Coyoacán, 04220 Ciudad de México, CDMX",12200
-Tlalpan National Park,Ecoturismo,4.6,"Camino a Sta. Teresa S / N, Parques del Pedregal, Tlalpan, 14010 Tlalpan, CDMX",14500
-Parque Lincoln,Ecoturismo,4.6,"Av. Emilio Castelar 163, Polanco, Polanco III Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX",13100
-Alameda de Santa María,Ecoturismo,4.6,"Santa María la Ribera, Cuauhtémoc, 06400 Mexico City",18500
-El Pialadero de Guadalajara,Restaurante,4.3,"Hamburgo 332, Juárez, Cuauhtémoc, 06600 Cuauhtemoc, CDMX",3100
