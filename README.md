@@ -106,6 +106,7 @@ la solución planteada:
 
 Diagrama 1: Flujo de usuario
 
+![alt text](https://github.com/SaturdaysAI-Tinto/asistente_turistico/blob/master/Picture1.png)
 
 
 1.  El usuario se Registra/Ingresa en la aplicación e ingresa
