@@ -24,9 +24,7 @@ Nuestro proyecto se alinea con los siguientes objetivos de desarrollo sustentabl
 
 El COVID-19 ha tenido un impacto profundo en el turismo. En México se ha
 registrado una caída del 41.2% en el número de turistas internacionales
-respecto de 2019. Considerando que el 15% del PIB de este país depende
-del turismo, esto representó una pérdida económica por 5,927.6 mdd, lo
-cual equivale al salario mínimo anual de 2.7 millones de mexicanos.
+respecto de 2019. Esto representa, a septiembre de 2020, una pérdida de 10.4 mil millones de dólares en ingresos por visitantes internacionales.
 Asimismo, dado que la recuperación del turismo dependerá de cómo
 evolucione la propagación del virus, de las restricciones de viaje y de
 que el público recupere la confianza para volver a viajar al extranjero,
